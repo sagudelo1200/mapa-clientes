@@ -54,7 +54,7 @@ export default function FilterPanel({
               <circle cx='12' cy='9' r='2.5' fill='white' />
             </svg>
           </div>
-          <h1>Mapa Clientes</h1>
+          <h1>Mapa Comercial</h1>
         </div>
         <p className='subtitle'>Georreferenciación de Clientes</p>
       </div>
